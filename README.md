@@ -10,7 +10,7 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
-    <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="250" width="380"/>
+    <img align="right" src="![gif1](https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/assets/142775927/fb4d83f9-80fb-4034-aa22-330057735051)"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast on a journey to explore the limitless possibilities of programming </font></p>
