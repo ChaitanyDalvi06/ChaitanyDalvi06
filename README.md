@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">
-    <font color="blue">About me:</font>
+    <font color="blue">👤 About me:</font>
 </h3>
 
 <div align="left">
