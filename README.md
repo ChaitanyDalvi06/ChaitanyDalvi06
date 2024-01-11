@@ -109,6 +109,10 @@
 <img src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/download.jpeg" height= "39%" width= "39%">
 <img align="right" src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/gif2.gif" height= "50%" width= "50%">
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 </html>
 
 
