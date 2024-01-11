@@ -26,16 +26,16 @@
 
 <h2>Get in Touch</h2>
 <p>
-    <a href="https://www.instagram.com/http.rafe_/" target="_blank">
+    <a href="https://www.instagram.com/chaitanya__dalvi_?igsh=bjhyazl5cWhhMXI=" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
     </a>
     <a href="mailto:2023.chaitanyad@isu.ac.in.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/rafe-shaikh-03336628a/" target="_blank">
+    <a href="https://www.linkedin.com/in/chaitanyapradeepdalvi06052005/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
     </a>
-    <a href="https://twitter.com" target="_blank">
+    <a href="https://x.com/ChaitanyaDalvi_?t=jkBIjCdZjXZfGIk_kmNzjA&s=09" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
     </a>
 </p>
@@ -54,6 +54,7 @@
     </p>
     <h4>Languages:</h4>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+     <img src="https://skillicons.dev/icons?i=c theme=light" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <h4>Version Control:</h4>
@@ -65,6 +66,8 @@
         <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
         <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
     </p>
+</div>
+
 </div>
 
 <div align="center">
