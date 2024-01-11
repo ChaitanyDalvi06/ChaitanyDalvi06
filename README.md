@@ -3,6 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+Chaitanya+Dalvi!" />
 </h1>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h3 align="left">
     <font color="blue">👤 About me:</font>
@@ -37,6 +40,10 @@
     </a>
 </p>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2>Skills &amp; Languages</h2>
 <div align="left">
     <h4>IDEs:</h4>
@@ -61,6 +68,10 @@
     </p>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2>GitHub Stats:</h2>
 <div align="center">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyDalvi06&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
@@ -70,6 +81,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyDalvi06&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyDalvi06&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyDalvi06&theme=aura&utcOffset=5.3" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <div align="left">
