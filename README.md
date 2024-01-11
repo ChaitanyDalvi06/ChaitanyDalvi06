@@ -44,7 +44,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<img align="right" src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/giphy.gif" height= "45%" width= "45%">
 <h2>Skills &amp; Languages</h2>
+
 <div align="left">
     <h4>IDEs:</h4>
     <p>
@@ -94,6 +96,10 @@
     <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChaitanyDalvi06/ChaitanyDalvi06/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 </body>
