@@ -10,12 +10,15 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
-    <img src="https://media3.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.gif?cid=ecf05e47u09py71z0l41wyyulkbtohrcaipuzd1xkhh9w67j&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right"/>
+    <img src="https://media3.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.gif?cid=ecf05e47u09py71z0l41wyyulkbtohrcaipuzd1xkhh9w67j&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" height="400" width="400"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast on a journey to explore the limitless possibilities of programming </font></p>
     <p><font color="blue">💻 Currently diving deep into Python</font></p>
     <p><font color="blue">🧑‍💻 Passionate about AI ML and Entrepreneurship </font></p>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <h2>Get in Touch</h2>
