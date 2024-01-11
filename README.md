@@ -10,7 +10,7 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Cricket Enthusiast</font></p>
-    <img align="file:///Users/chaitanyadalvi/Desktop/gif1.gif"/>
+    <img src="file:///Users/chaitanyadalvi/Desktop/gif1.gif" align="right"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast on a journey to explore the limitless possibilities of programming </font></p>
