@@ -97,4 +97,10 @@
 </div>
 
 </body>
+<div align="center">
+<img src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/download.jpeg" height= "39%" width= "39%">
+<img align="right" src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/gif2.gif" height= "50%" width= "50%">
+
 </html>
+
+
