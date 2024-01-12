@@ -28,19 +28,20 @@
 
 <h2>Get in Touch</h2>
 <p>
-    <a href="https://www.instagram.com/chaitanya__dalvi_?igsh=bjhyazl5cWhhMXI=" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+ </a>
+    <a href="https://www.linkedin.com/in/chaitanyapradeepdalvi06052005/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
     </a>
     <a href="mailto:2023.chaitanyad@isu.ac.in.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/chaitanyapradeepdalvi06052005/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-    </a>
     <a href="https://x.com/ChaitanyaDalvi_?t=jkBIjCdZjXZfGIk_kmNzjA&s=09" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
     </a>
-</p>
+    <a href="https://www.instagram.com/chaitanya__dalvi_?igsh=bjhyazl5cWhhMXI=" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+    </a>
+ <p>   
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
