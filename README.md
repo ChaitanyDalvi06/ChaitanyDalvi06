@@ -47,7 +47,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<img align="right" src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/giphy.gif" height= "45%" width= "45%">
+
 <h2>Skills &amp; Languages</h2>
 
 <div align="left">
