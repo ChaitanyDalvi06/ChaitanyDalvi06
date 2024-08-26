@@ -16,10 +16,10 @@
     <p><font color="blue">Enthusiastic Computer Science Student 👨‍🎓 </font></p>
     <img src="https://media3.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.gif?cid=ecf05e47u09py71z0l41wyyulkbtohrcaipuzd1xkhh9w67j&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" height="400" width="400"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
-    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
+    <p><font color="blue">👨‍💻 Second-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast on a journey to explore the limitless possibilities of programming </font></p>
-    <p><font color="blue">💻 Currently diving deep into Python</font></p>
-    <p><font color="blue">🧑‍💻 Passionate about AI ML and Entrepreneurship </font></p>
+    <p><font color="blue">📈 Passionate about building innovative solutions and learning every day/font></p>
+    <p><font color="blue">🧑‍💻 Passionate about Blockchain and Entrepreneurship </font></p>
 </div>
 </h3>
 <div align="center">
