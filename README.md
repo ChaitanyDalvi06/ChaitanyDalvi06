@@ -62,6 +62,7 @@
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+    <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
      <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <h4>Version Control:</h4>
     <p>
@@ -72,6 +73,11 @@
         <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
         <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
         <img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
+    </p>
+      <h4>Software / Tools:</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=figma,&theme=light" />
+            <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     </p>
 </div>
 
