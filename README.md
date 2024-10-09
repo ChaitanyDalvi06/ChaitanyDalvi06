@@ -82,7 +82,8 @@
      <h4>DataBase</h4>
     <p>
      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /> 
-     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />   
+     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+     <img src="https://skillicons.dev/icons?i=firebase&theme=light" />
     </p>
 </div>
 
