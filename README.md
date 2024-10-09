@@ -79,6 +79,11 @@
         <img src="https://skillicons.dev/icons?i=figma,&theme=light" />
             <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     </p>
+     <h4>DataBase</h4>
+    <p>
+     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /> 
+     <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />   
+    </p>
 </div>
 
 </div>
