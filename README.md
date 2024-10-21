@@ -85,6 +85,11 @@
      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
      <img src="https://skillicons.dev/icons?i=firebase&theme=light" />
     </p>
+
+ <h4>AR VR</h4>
+    <p>
+        <img src="https://github.com/user-attachments/assets/ebefba93-ad19-4858-a861-71379dfbdaa7" width="50" height="50" />
+    </p>
 </div>
 
 </div>
