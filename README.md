@@ -76,7 +76,7 @@
     </p>
       <h4>Software / Tools:</h4>
     <p>
-        <img src="https://skillicons.dev/icons?i=figma,&theme=light" />
+        <img src="https://skillicons.dev/icons?i=figma " />
             <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     </p>
      <h4>DataBase</h4>
