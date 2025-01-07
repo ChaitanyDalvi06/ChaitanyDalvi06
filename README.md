@@ -63,7 +63,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/graphql.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neo4j.svg" alt="icon" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
     <h4>Version Control:</h4>
     <p>
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
