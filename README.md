@@ -55,8 +55,8 @@
     <p>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     </p>
-    <h4>Languages:</h4>
-    <img src="https://skillicons.dev/icons?i=c theme=light" width="50" height="50" />
+    <h4>Languages :</h4>
+    <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
@@ -67,32 +67,42 @@
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/neo4j.svg" alt="icon" width="50" height="50" />
     <img src="https://github.com/user-attachments/assets/3dc10a7e-866d-4ce0-9ecb-7dd1b5f1d548"alt="icon" height="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png" width="50" height="50">
-    <h4>Version Control:</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-    </p>
-    <h4>No Code:</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
-        <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
-    </p>
-      <h4>Software / Tools:</h4>
-    <p>
-        <img src="https://skillicons.dev/icons?i=figma " />
-            <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
-    </p>
-     <h4>DataBase</h4>
+
+<h4>DataBase :</h4>
     <p>
      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /> 
      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
      <img src="https://skillicons.dev/icons?i=firebase&theme=light" />
     </p>
 
- <h4>AR VR</h4>
+<h4>Cloud Services :</h4>
+    <p>
+       <img src="https://skillicons.dev/icons?i=aws,gcp" />
+    </p>
+    
+<h4>Version Control :</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+    </p>
+
+<h4>Software / Tools :</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=figma " />
+            <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    </p>
+
+<h4>AR VR</h4>
     <p>
         <img src="https://github.com/user-attachments/assets/ebefba93-ad19-4858-a861-71379dfbdaa7" width="50" height="50" />
     </p>
+    
+<h4>No Code :</h4>
+    <p>
+        <img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
+        <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50" theme="dark"> 
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968753.png" alt="icon" width="50" height="50">
+    </p>
+      
 </div>
 
 </div>
